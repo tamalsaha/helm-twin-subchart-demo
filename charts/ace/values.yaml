@@ -4,5 +4,7 @@
 
 one:
   enabled: true
+  replicas: 2
 two:
   enabled: true
+  replicas: 3
