@@ -4,7 +4,7 @@
 
 one:
   enabled: true
-  replicas: 2
+  replicaCount: 2
 two:
   enabled: true
-  replicas: 3
+  replicaCount: 3
